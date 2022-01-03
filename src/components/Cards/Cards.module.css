@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 100px;
+}
+
+.infected {
+  border-bottom: 10px solid
+    rgba(38, 125, 217, 0.8);
+}
+
+.deaths {
+  border-bottom: 10px solid rgba(250, 85, 85, 0.8);
+}
+
+.card {
+  margin: 0px 10px;
+  background-color: rgb(253, 252, 252);
+  color: rgb(32, 32, 32);
+}
